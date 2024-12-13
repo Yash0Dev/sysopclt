@@ -44,13 +44,13 @@ Here are some examples of how to use sysopctl:
  $ sysopctl logs analyze: Analyze recent critical log entries.
  $ sysopctl backup <path>: Backup files or directories.
 
- 5. Command Examples
+# Command Examples
 
-•	Example 1: Displaying Help
+- Example 1: Displaying Help
 $ sysopctl --help
-•	Example 2: list of  Services
+- Example 2: list of  Services
 $ sysopctl service list  
-•	Example 3: Monitoring Processes
+- Example 3: Monitoring Processes
 $ sysopctl process monitor etc
  
 
