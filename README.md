@@ -1,4 +1,4 @@
-# sysopclt
+# sysopctl
 
 # Overview
 sysopctl is a custom Bash script designed to manage Linux system resources, services, and health effectively. It provides commands for system monitoring, service management, and backups, simplifying administrative tasks for system administrators.
