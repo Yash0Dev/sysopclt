@@ -28,11 +28,12 @@ sysopctl --version
 
 # Usage
 Here are some examples of how to use sysopctl:
-**Basic Commands:**< br / >
- $ sysopctl --help: Display usage and examples.< br / >
- $ sysopctl --version: Show the current version.< br / >
- $ sysopctl service list: List all active services.< br / >
- $ sysopctl system load: Display system load averages.< br / >
+**Basic Commands:**  
+
+ $ sysopctl --help: Display usage and examples.  
+ $ sysopctl --version: Show the current version.  
+ $ sysopctl service list: List all active services.  
+ $ sysopctl system load: Display system load averages.  
  
 **Intermediate Commands:**< br / >
  $ sysopctl service start <name>: Start a specified service.< br / >
