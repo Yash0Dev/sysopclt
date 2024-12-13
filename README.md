@@ -47,7 +47,8 @@ Here are some examples of how to use sysopctl:
 # Command Examples
 
 - Example 1: Displaying Help  
-$ sysopctl --help  
+$ sysopctl --help  ![Screenshot 2024-12-13 153619](https://github.com/user-attachments/assets/da37df55-1155-4311-8763-01ffa6930193)
+
 - Example 2: list of  Services  
 $ sysopctl service list    
 - Example 3: Monitoring Processes   
