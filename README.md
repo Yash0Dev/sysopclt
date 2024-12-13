@@ -28,29 +28,29 @@ sysopctl --version
 
 # Usage
 Here are some examples of how to use sysopctl:
-**Basic Commands:**
- $ sysopctl --help: Display usage and examples.
- $ sysopctl --version: Show the current version.
- $ sysopctl service list: List all active services.
- $ sysopctl system load: Display system load averages.
+**Basic Commands:**< br / >
+ $ sysopctl --help: Display usage and examples.< br / >
+ $ sysopctl --version: Show the current version.< br / >
+ $ sysopctl service list: List all active services.< br / >
+ $ sysopctl system load: Display system load averages.< br / >
  
-**Intermediate Commands:**
- $ sysopctl service start <name>: Start a specified service.
- $ sysopctl service stop <name>: Stop a specified service.
- $ sysopctl disk usage: Display disk usage statistics.
+**Intermediate Commands:**< br / >
+ $ sysopctl service start <name>: Start a specified service.< br / >
+ $ sysopctl service stop <name>: Stop a specified service.< br / >
+ $ sysopctl disk usage: Display disk usage statistics.< br / >
 
 **Advanced Commands:**
- $ sysopctl process monitor: Monitor real-time system processes.
- $ sysopctl logs analyze: Analyze recent critical log entries.
- $ sysopctl backup <path>: Backup files or directories.
+ $ sysopctl process monitor: Monitor real-time system processes.< br / >
+ $ sysopctl logs analyze: Analyze recent critical log entries.< br / >
+ $ sysopctl backup <path>: Backup files or directories.< br / >
 
 # Command Examples
 
-- Example 1: Displaying Help
+- Example 1: Displaying Help< br / >
 $ sysopctl --help
-- Example 2: list of  Services
+- Example 2: list of  Services< br / >
 $ sysopctl service list  
-- Example 3: Monitoring Processes
+- Example 3: Monitoring Processes< br / >
 $ sysopctl process monitor etc
  
 
