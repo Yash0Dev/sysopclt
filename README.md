@@ -17,14 +17,17 @@ sysopctl is a custom Bash script designed to manage Linux system resources, serv
    git clone <repository-url>
    cd <repository-folder>
    
-2. Make the script executable:  
-chmod +x sysopctl
+2. Make the script executable:
+   ```bash
+   chmod +x sysopctl
 
 4. Move the script to a directory in your PATH:  
-sudo mv sysopctl /usr/local/bin/
+   ```bash
+   sudo mv sysopctl /usr/local/bin/
 
-6. Verify installation:  
-sysopctl --version
+6. Verify installation:
+   ```bash
+   sysopctl --version
 
 # Usage
 Here are some examples of how to use sysopctl:  
