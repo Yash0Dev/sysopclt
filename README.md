@@ -50,12 +50,12 @@ Here are some examples of how to use sysopctl:
 $ sysopctl --help  ![Screenshot 2024-12-13 153619](https://github.com/user-attachments/assets/da37df55-1155-4311-8763-01ffa6930193)
 
 - Example 2: list of  Services  
-$ sysopctl service list    
+$ sysopctl service list    ![Screenshot 2024-12-13 153913](https://github.com/user-attachments/assets/bcd82d33-9431-4347-8ffb-3bd0e7962f55)
+
 - Example 3: Monitoring Processes   
-$ sysopctl process monitor etc
+$ sysopctl process monitor etc![Screenshot 2024-12-13 154047](https://github.com/user-attachments/assets/270820b5-1ce9-424d-96db-90610aa923ca)
+
  
 
 
-
-[README.docx](https://github.com/user-attachments/files/18124923/README.docx)
 
